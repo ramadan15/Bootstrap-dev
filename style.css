@@ -1,0 +1,28 @@
+.navbar{
+    justify-content: center;
+    background-color: cadetblue;
+}
+.nav-link{
+    color: coral;
+}
+
+.display-4{
+text-align: center;
+}
+.başlık2{
+    text-align: center;
+}
+.listeler{
+    text-align: center;
+}
+
+.btn-primary{
+ text-align: center;
+}
+.müzik-aletleri{
+    margin-left: 13.5cm;
+}
+
+.başlık-ürünler{
+    text-align: center;
+}
